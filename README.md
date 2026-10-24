@@ -14,5 +14,7 @@ Each semester contains a `programming` directory with:
 The semester directories currently cover semesters 01 through 08.
 
 cd "C:\Users\x\Desktop\NBU\semester-01\programming\homework"
-g++ -std=c++17 -Wall -Wextra -pedantic CSCB112_HM1_126000.cpp -o CSCB112_HM1_126000.exe
-.\CSCB112_HM1_126000.exe
+
+g++ -std=c++17 -Wall -Wextra -pedantic CSCB112_HM3_126000.cpp -o CSCB112_HM3_126000.exe
+
+.\CSCB112_HM3_126000.exe
